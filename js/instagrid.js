@@ -1,4 +1,4 @@
-//eitan made this lols
+/*sam smolenski 2013*/
 (function ($){
  $.fn.instagrid = function (options) {
   	var that = this, appTotal,
