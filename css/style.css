@@ -1,0 +1,10 @@
+.primary {
+	padding: 10px 20px;
+}
+ul{
+	clear: both;
+}
+ul li{
+	list-style-type: none;
+	float:left;
+}
